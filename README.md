@@ -1,4 +1,4 @@
-# Red-social-ETSIIT
+# Red social ETSIIT
 
 Creación de una red social por miembros de la ETSIIT.
 
