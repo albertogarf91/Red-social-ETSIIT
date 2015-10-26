@@ -7,3 +7,6 @@
 [submodule "CloudComputingProject"]
 	path = CloudComputingProject
 	url = https://github.com/alcasla/CloudComputingProject
+[submodule "CCProyect"]
+	path = CCProyect
+	url = https://github.com/lrdzero/CCProyect
