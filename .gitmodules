@@ -10,3 +10,6 @@
 [submodule "CCProyect"]
 	path = CCProyect
 	url = https://github.com/lrdzero/CCProyect
+[submodule "CloudComputingRedSocial"]
+	path = CloudComputingRedSocial
+	url = https://github.com/JaviSG91/CloudComputingRedSocial
