@@ -1,3 +1,6 @@
 [submodule "Submodulo-Red-social-Juego"]
 	path = Submodulo-Red-social-Juego
 	url = https://github.com/albertogarf91/Submodulo-Red-social-Juego
+[submodule "Submodulo-Red-social-Analytics"]
+	path = Submodulo-Red-social-Analytics
+	url = https://github.com/luishexen/Submodulo-Red-social-Analytics
