@@ -4,3 +4,6 @@
 [submodule "Submodulo-Red-social-Analytics"]
 	path = Submodulo-Red-social-Analytics
 	url = https://github.com/luishexen/Submodulo-Red-social-Analytics
+[submodule "CloudComputingProject"]
+	path = CloudComputingProject
+	url = https://github.com/alcasla/CloudComputingProject
