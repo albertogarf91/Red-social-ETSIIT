@@ -10,3 +10,6 @@
 [submodule "CloudComputingRedSocial"]
 	path = CloudComputingRedSocial
 	url = https://github.com/JaviSG91/CloudComputingRedSocial
+[submodule "ProyectoCloudComputing"]
+	path = ProyectoCloudComputing
+	url = https://github.com/alcasla/ProyectoCloudComputing.git
