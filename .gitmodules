@@ -5,8 +5,8 @@
 	path = Submodulo-Red-social-Analytics
 	url = https://github.com/luishexen/Submodulo-Red-social-Analytics
 [submodule "CloudComputingProject"]
-	path = CloudComputingProject
-	url = https://github.com/alcasla/CloudComputingProject
+	path = ProyectoCloudComputing
+	url = https://github.com/alcasla/ProyectoCloudComputing.git
 [submodule "CCProyect"]
 	path = CCProyect
 	url = https://github.com/lrdzero/CCProyect
